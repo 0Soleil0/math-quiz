@@ -42,4 +42,3 @@ markdown
 
 ![Скриншот 1](screenshots/screenshot1.png)
 ![Скриншот 2](screenshots/screenshot2.png)
-![Скриншот 3](screenshots/screenshot3.png)
