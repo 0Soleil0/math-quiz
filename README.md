@@ -1,4 +1,3 @@
-markdown
 # Математический квиз на скорость
 
 ## Описание
@@ -10,10 +9,14 @@ markdown
 1. Скачайте репозиторий с GitHub или GitLab:
 
    ```bash
-   git clone https://github.com/username/math-quiz.git
+   git clone https://github.com/0Soleil0/math-quiz.git
    ```
 
-2. Убедитесь, что у вас установлен Python и библиотека tkinter. Если у вас нет tkinter, его можно установить с помощью pip:
+2. Убедитесь, что у вас установлен Python 
+     ```bash
+   py --version
+   ```
+    Если у вас нет tkinter, его можно установить с помощью pip:
 
    ```bash
    pip install tk
